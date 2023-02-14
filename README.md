@@ -4,5 +4,5 @@
 
 ### How to register for an evaluation session
 
-### How to grep the evaluation
+### How to grep the others evaluation
 
